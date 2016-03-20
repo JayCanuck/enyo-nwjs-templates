@@ -1,0 +1,6 @@
+.enyocache
+dist/
+lib/
+bin/
+nwjs/
+node_modules/

@@ -1,0 +1,33 @@
+{
+	"name": "nwjs-moonstone",
+	"version": "0.0.1",
+	"description": "Template for an Enyo-based nwjs app",
+	"main": "index.js",
+	"assets": [
+		"assets/**/*.*",
+		"resources/**/*.*",
+		"LICENSE"
+	],
+	"styles": [
+		"css/*.less",
+		"css/*.css"
+	],
+	"devAssets": [],
+	"moduleDir": "src",
+	"repository": "https://github.com/JayCanuck/enyo-nwjs-templates",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"gulp": "^3.9.1",
+		"gulp-jshint": "^2.0.0",
+		"jshint": "^2.9.1",
+		"jshint-stylish": "^2.1.0",
+		"nw-builder": "^2.2.0"
+	},
+	"nwjs": "0.12.3",
+	"window": {
+		"icon": "assets/icon.png",
+		"toolbar": true,
+		"frame": false,
+		"fullscreen": false
+	}
+}

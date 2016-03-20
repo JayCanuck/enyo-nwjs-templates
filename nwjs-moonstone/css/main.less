@@ -1,0 +1,27 @@
+/*
+    App-specific LESS/CSS would go here, but to make your application easier to
+    maintain, you should try to minimize the use of custom CSS.
+
+    Additionally, you can override any moonstone variables in this file. You
+    can also control the theme and change it from dark to light if desired by
+    adding the assignment:
+
+    @moon-theme: 'light';
+*/
+
+body::before {
+	content: "";
+	display: block;
+	width: 100%;
+	height: 1.5rem;
+	position: absolute;
+	top: 0;
+	left: 0;
+	-webkit-app-region: drag;
+	z-index: 10000;
+}
+
+.main-view {
+}
+
+

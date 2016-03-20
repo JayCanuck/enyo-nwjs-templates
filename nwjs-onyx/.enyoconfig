@@ -1,0 +1,53 @@
+{
+  "title": "My App",
+  "libDir": "lib",
+  "paths": [],
+  "libraries": [
+    "enyo",
+    "onyx",
+    "layout"
+  ],
+  "sources": {
+    "enyo": "https://github.com/enyojs/enyo.git",
+    "onyx": "https://github.com/enyojs/onyx.git",
+    "layout": "https://github.com/enyojs/layout.git"
+  },
+  "targets": {
+    "enyo": "2.6.0-dev",
+    "onyx": "2.6.0-dev",
+    "layout": "2.6.0-dev"
+  },
+  "production": false,
+  "devMode": true,
+  "cache": true,
+  "resetCache": false,
+  "trustCache": false,
+  "cacheFile": ".enyocache",
+  "clean": false,
+  "sourceMaps": true,
+  "externals": true,
+  "strict": false,
+  "skip": [],
+  "library": false,
+  "wip": false,
+  "outDir": "dist",
+  "outFile": "index.html",
+  "lessPlugins": [],
+  "assetRoots": [],
+  "lessOnlyLess": false,
+  "minifyCss": false,
+  "inlineCss": true,
+  "outCssFile": "output.css",
+  "outJsFile": "output.js",
+  "inlineJs": true,
+  "templateIndex": "",
+  "watch": false,
+  "watchPaths": [],
+  "polling": false,
+  "pollingInterval": 100,
+  "headScripts": [],
+  "tailScripts": [],
+  "promisePolyfill": false,
+  "styleOnly": false,
+  "lessVars": []
+}

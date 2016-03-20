@@ -1,5 +1,5 @@
 # enyo-nwjs-templates
-A collection of nwjs-based app templates for enyo-dev
+A collection of nwjs-based app templates for [enyo-dev](http://github.com/enyojs/enyo-dev)
 
 --------------------
 

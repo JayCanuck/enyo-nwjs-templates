@@ -13,9 +13,9 @@
     "layout": "https://github.com/enyojs/layout.git"
   },
   "targets": {
-    "enyo": "2.6.0-dev",
-    "onyx": "2.6.0-dev",
-    "layout": "2.6.0-dev"
+    "enyo": "master",
+    "onyx": "master",
+    "layout": "master"
   },
   "production": false,
   "devMode": true,

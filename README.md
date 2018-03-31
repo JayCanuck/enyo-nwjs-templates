@@ -1,4 +1,4 @@
-# enyo-nwjs-templates
+# enyo-templates-nwjs
 A collection of [nwjs](https://github.com/nwjs/nw.js)-based app templates for [enyo-dev](http://github.com/enyojs/enyo-dev). It allows for powerful webapps developed in Enyo to be packaged within a self-contained environment and binary executable for Windows, Mac, and Linux.
 
 --------------------
